@@ -1,12 +1,12 @@
 ## Hi, Adwita this side!
 
-I'm an engineer (sort of) with a passion for building (read: breaking) stuff.
+I'm an engineer with a passion for building (read: breaking) stuff.
 
 ## Tech Stack
 
-- 💻 Languages: C++, Python, Bash
-- 📊 Data: SQL, Mongo DB, Pandas, NumPy, PyTorch
-- ☁️ Tools: Git, Postman, Azure (basic)
+-  Languages: C++, Python, Bash
+-  Data: SQL, Mongo DB, Pandas, NumPy, PyTorch
+- ☁ Tools: Git, Postman, Azure (basic)
 
 ## Current Focus
 - Scratch Lab: a repository where I post implementations of various ML algorithms/libraries/functions from scratch
