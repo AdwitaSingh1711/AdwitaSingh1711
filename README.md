@@ -6,7 +6,7 @@ I'm an engineer with a passion for building (read: breaking) stuff.
 
 -  Languages: C++, Python, Bash
 -  Data: SQL, Mongo DB, Pandas, NumPy, PyTorch
-- ☁ Tools: Git, Postman, Azure (basic)
+-  Tools: Git, Postman, Azure (basic)
 
 ## Current Focus
 - Scratch Lab: a repository where I post implementations of various ML algorithms/libraries/functions from scratch
