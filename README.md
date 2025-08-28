@@ -2,9 +2,10 @@
 
 I'm currently Working On:
 
-1. ![DivePy](https://github.com/AdwitaSingh1711/Auto-EDA): command-line tool for performing automatic Exploratory Data Analysis (EDA) on CSV files.
+1. [DivePy](https://github.com/AdwitaSingh1711/Auto-EDA): command-line tool for performing automatic Exploratory Data Analysis (EDA) on CSV files.
 
-2. ![Scratch Lab](https://github.com/AdwitaSingh1711/from-scratch-lab): a collection of from-scratch implementations of machine learning models, frameworks, and techniques.
+2. [Scratch Lab](https://github.com/AdwitaSingh1711/from-scratch-lab): a collection of from-scratch implementations of machine learning models, frameworks, and techniques.
+
 
 ### Tech Stack  
 
