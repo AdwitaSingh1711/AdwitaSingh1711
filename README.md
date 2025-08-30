@@ -1,4 +1,4 @@
-## Hello, Adwita this side! <img src="https://github.com/user-attachments/assets/e168ac06-d469-4002-82f4-bf78bb95ece2" align="" width="30" />
+## Hello, Adwita this side! <img src="https://github.com/user-attachments/assets/e168ac06-d469-4002-82f4-bf78bb95ece2" align="" width="40" />
 
 I'm currently Working On:
 
