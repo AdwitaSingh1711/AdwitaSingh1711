@@ -22,9 +22,6 @@ I'm currently Working On:
 ### Contacts
 A lot of the projects I work on are either self-serving or stuff I once found cool. If you've got an idea, hit me up on:
 <p align="left">
-  <a href="https://www.linkedin.com/in/adwita-singh-322a0122a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:adwita.s.at07@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=white"/>
   </a>
